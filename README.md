@@ -9,7 +9,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 
 ## 🛠 Technical Skills
 
-### 🛡️Security Tools
+### 🛡️ Security Tools
 - Wazuh SIEM
 - Wireshark
 - Nmap
@@ -17,7 +17,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Hydra
 - Netcat
 
-### 🌐Networking
+### 🌐 Networking
 - Cisco Packet Tracer
 - TCP/IP
 - DNS
@@ -25,20 +25,20 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - VLAN
 - VPN
 
-### 💻Operating Systems
+### 💻 Operating Systems
 - Windows 11
 - Windows Server 2022
 - Kali Linux
 - Whonix
 
-### 🛡️Security Skills
+### 🛡️ Security Skills
 - Log Analysis
 - Packet Analysis
 - Malware Analysis (Home Lab)
 - System Hardening
 - Windows Event Analysis
 
-### 👨‍💻Programming & Scripting
+### 👨‍💻 Programming & Scripting
 - Python
 - Bash
 - PowerShell
