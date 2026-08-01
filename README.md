@@ -61,7 +61,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 
 ## 🚀 Featured Projects
 
-### 🔍 Wazuh SIEM Deployment & Threat Investigation(Projects/wazuh-threat-investigation)
-### 🌐 Network isolation & security OPSEC lab (whonix + kali)(Projects/network-isolation-lab)
-### 🖥️ Active Directory Home Lab(active-directory-lab)
+### [🔍 Wazuh SIEM Deployment & Threat Investigation](Projects/wazuh-threat-investigation)
+### [🌐 Network isolation & security OPSEC lab (whonix + kali)](Projects/network-isolation-lab)
+### [🖥️ Active Directory Home Lab](active-directory-lab)
 
