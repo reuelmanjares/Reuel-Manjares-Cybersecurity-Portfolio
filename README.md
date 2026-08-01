@@ -62,27 +62,6 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 ## 🚀 Featured Projects
 
 ### 🔍 Wazuh SIEM Deployment & Threat Investigation
-Deployed an open-source SIEM (Wazuh) in a home lab
-environment and performed alert triage on an
-authentication failure event tagged under MITRE
-ATT&CK T1110 (Password Guessing). Investigated using
-volume, severity level, agent source, and timing
-pattern to correctly identify it as a false positive
-rather than a real brute-force attempt.
-**Tools:** Wazuh, Kali Linux, VirtualBox
-
-### 🌐 Whonix Gateway + Kali Linux Network Isolation & Whonix Gateway + Whonix Workstation
-Configured a segmented VM network routing Kali Linux
-through a Whonix Gateway for traffic isolation, with
-UFW firewall hardening and Firefox privacy configuration
-(WebRTC disabled, fingerprinting resistance, HTTPS-only).
-and also Whonix workstation routing through a Whonix Gateway for Malware Analysis
-**Tools:** VirtualBox, Whonix, Kali Linux, UFW
-
-### 🖥️ Active Directory Home Lab *(in progress)*
-Building a mini enterprise environment with Windows
-Server 2022 (Domain Controller), a domain-joined client,
-and Wazuh monitoring integration, including simulated
-attack detection from Kali Linux.
-**Tools:** Windows Server 2022, Kali Linux, Wazuh
+### 🌐 Network isolation & security OPSEC lab (whonix + kali)
+### 🖥️ Active Directory Home Lab
 
