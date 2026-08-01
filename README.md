@@ -16,7 +16,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Metasploit (Learning)
 - Hydra
 - Netcat
-
+- Event Viewer
+  
 ### 🌐 Networking
 - Cisco Packet Tracer
 - TCP/IP
@@ -45,7 +46,6 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Command Prompt
 
 ## 📚 Learning Platforms
-
 - SoloLearn (Python)
 - TryHackMe
 - Hack The Box
@@ -63,5 +63,5 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 
 ### [🔍 Wazuh SIEM Deployment & Threat Investigation](Projects/wazuh-threat-investigation)
 ### [🌐 Network isolation & security OPSEC lab (whonix + kali)](Projects/network-isolation-lab)
-### [🖥️ Active Directory Home Lab](active-directory-lab)
+### [🖥️ Active Directory Home Lab](Projects/active-directory-lab)
 
