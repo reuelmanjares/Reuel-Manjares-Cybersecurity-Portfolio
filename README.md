@@ -18,7 +18,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Netcat
 - Event Viewer
 - Sysmon
-- Snort
+- Snort (IDS/IPS)
   
 ### 🌐 Networking
 - Cisco Packet Tracer
