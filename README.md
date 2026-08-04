@@ -17,6 +17,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Hydra
 - Netcat
 - Event Viewer
+- Sysmon
+- Snort
   
 ### 🌐 Networking
 - Cisco Packet Tracer
