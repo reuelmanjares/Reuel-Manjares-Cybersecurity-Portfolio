@@ -19,7 +19,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Event Viewer
 - Sysmon
 - Snort (IDS/IPS)
-  
+- Active Directory Server
+
 ### 🌐 Networking
 - Cisco Packet Tracer
 - TCP/IP
@@ -58,7 +59,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 ## 🎓 Certifications
 - [ ] CompTIA Security+ *(in progress)*
 - [ ] TryHackMe SEC1 *(in progress)*
-- [ ] TryHackMe SAL1 *(planned)*
+- [ ] TryHackMe SAL1 *(in progress)*
 - [ ] Solo Learn Python Certification *(in progress)*
 
 ## 🚀 Featured Projects
@@ -66,4 +67,4 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 ### [🔍 Wazuh SIEM Deployment & Threat Investigation](Projects/wazuh-threat-investigation)
 ### [🌐 Network isolation & security OPSEC lab (whonix + kali)](Projects/network-isolation-lab)
 ### [🖥️ Active Directory Home Lab](Projects/active-directory-lab)
-### [🖥️ Network Intrusion Detection System ](network-intrusion-detection-system)
+### [🖥️ Network Intrusion Detection System ](Projects/network-intrusion-detection-system)
