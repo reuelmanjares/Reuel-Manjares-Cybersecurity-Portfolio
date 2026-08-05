@@ -14,7 +14,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Wireshark
 - Nmap
 - Metasploit (Learning)
-- Hydra
+- John the Ripper
 - Netcat
 - Event Viewer
 - Sysmon
@@ -55,7 +55,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Blue Team Labs Online
 - Rootme
 - PicoCTF
-
+- pwn.college
+  
 ## 🎓 Certifications
 - [ ] CompTIA Security+ *(in progress)*
 - [ ] TryHackMe SEC1 *(in progress)*
