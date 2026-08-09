@@ -1,5 +1,5 @@
 # Reuel-Manjares-Cybersecurity-Portfolio
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reuelmanjares&show_icons=true&theme=dark)
+![GitHub Stats](https://vercel.app)
 [Linkedin](https://www.linkedin.com/in/manjares-reuel-m)
 
 ## 📌 About Me
