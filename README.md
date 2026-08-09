@@ -18,11 +18,12 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Wazuh SIEM
 - Wireshark
 - Nmap
-- Metasploit *(Learning)*
 - John the Ripper
 - Netcat
+- MITRE ATT&CK Framework
+- VirusTotal
 - Event Viewer + Sysmon
-- Snort (IDS/IPS)
+- Snort (IDS) on Kali Linux
 - Active Directory Server
 
 ### 🌐 Networking
@@ -38,11 +39,12 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 
 ### 🔍 Security Skills
 - Log & Packet Analysis
-- Malware Analysis (Home Lab)
+- Malware Analysis (CTF Practice)
 - System Hardening
 - Windows Event Analysis
-- Basic Penetration Testing
-
+- Basic Penetration Testing (CTF Practice)
+- Basic Reverse Engineering and Digital Forensics Concepts (CTF Practice)
+  
 ### 👨‍💻 Programming & Scripting
 - Python
 - Bash
