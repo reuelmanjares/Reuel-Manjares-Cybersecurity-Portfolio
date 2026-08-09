@@ -1,5 +1,5 @@
 # Reuel-Manjares-Cybersecurity-Portfolio
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reuelmanjares&show_icons=true&theme=dark)
 [Linkedin](https://www.linkedin.com/in/manjares-reuel-m)
 
 ## 📌 About Me
@@ -16,8 +16,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Metasploit (Learning)
 - John the Ripper
 - Netcat
-- Event Viewer
-- Sysmon
+- Event Viewer + Sysmon 
 - Snort (IDS/IPS)
 - Active Directory Server
 
@@ -41,6 +40,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Malware Analysis (Home Lab)
 - System Hardening
 - Windows Event Analysis
+- Basic Penetration Testing
+- Network Analysis
 
 ### 👨‍💻 Programming & Scripting
 - Python
