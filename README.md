@@ -23,7 +23,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - MITRE ATT&CK Framework
 - VirusTotal
 - Event Viewer + Sysmon
-- Snort (IDS) on Kali Linux
+- Snort (IDS) on Kali Linux + Wazuh
+- Suricata (Ubuntu) + Wazuh
 - Active Directory Server
 
 ### 🌐 Networking
@@ -36,6 +37,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Windows 11 / Windows Server 2022
 - Kali Linux
 - Whonix
+- Ubuntu
 
 ### 🔍 Security Skills
 - Log & Packet Analysis
