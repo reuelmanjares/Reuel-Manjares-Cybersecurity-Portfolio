@@ -20,6 +20,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Nmap
 - John the Ripper
 - Netcat
+- Burp Suite (basic)
 - MITRE ATT&CK Framework
 - VirusTotal
 - Event Viewer + Sysmon
@@ -48,7 +49,7 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Basic Reverse Engineering and Digital Forensics Concepts (CTF Practice)
   
 ### 👨‍💻 Programming & Scripting
-- Python
+- Python (basic)
 - Bash
 - PowerShell / Command Prompt
 
