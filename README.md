@@ -21,12 +21,13 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - John the Ripper
 - Netcat
 - Burp Suite (basic)
+- Metasploit (basic)
+- Autopsy
 - MITRE ATT&CK Framework
 - VirusTotal
 - Event Viewer + Sysmon
 - Snort (IDS) on Kali Linux + Wazuh
 - Suricata (Ubuntu) + Wazuh
-- Active Directory Server
 
 ### 🌐 Networking
 - Cisco Packet Tracer
