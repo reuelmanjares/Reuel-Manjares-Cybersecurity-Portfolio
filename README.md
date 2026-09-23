@@ -38,8 +38,10 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 ### 💻 Operating Systems
 - Windows 11 / Windows Server 2022
 - Kali Linux
+- Parrot OS
 - Whonix
 - Ubuntu
+- Fedora
 
 ### 🔍 Security Skills
 - Log & Packet Analysis
