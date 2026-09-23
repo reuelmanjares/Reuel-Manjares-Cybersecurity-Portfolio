@@ -25,6 +25,8 @@ I am currently strengthening my skills in PowerShell, Python automation, Windows
 - Autopsy
 - MITRE ATT&CK Framework
 - VirusTotal
+- CyberChef
+- Nessus
 - Event Viewer + Sysmon
 - Snort (IDS) on Kali Linux + Wazuh
 - Suricata (Ubuntu) + Wazuh
